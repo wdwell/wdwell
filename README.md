@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello-hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/wdwell">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -12,26 +12,26 @@
 <p>
 <br />
 <br />
-Привет, меня зовут Виктор. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Hello, my name is Victor. Currently studying to become an IT specialist. Learning Git and a few other interesting technologies.
 <br />
 </p>
 
-  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свои навыки в html, css и js
-* [x] Освоить scss, sass миксины, инклуды, циклы, переменные, импорт
-* [x] Ознакомиться с Wordpress и плагином Elementor
-* [x] Попробовать себя в решении реальных задач
-* [x] Порпботать в команде разработчиков над проектом
-* [ ] Освоить Pug — Jade
-* [ ] Освоить Vue js
-* [ ] Прокачать свои навыки в PHP
-* [ ] Создать страничку портфолио
+* [x] Improve my skills in html, css, and js
+* [x] Master scss, sass mixins, includes, loops, variables, import
+* [x] Familiarize myself with Wordpress and the Elementor plugin
+* [x] Try my hand at solving real-world problems
+* [x] Collaborate with a team of developers on a project
+* [ ] Learn Pug — Jade
+* [ ] Learn Vue js
+* [ ] Improve my skills in PHP
+* [ ] Create a portfolio page
 * [ ] Coming soon
 <!-- TODO-IST:END -->
+
